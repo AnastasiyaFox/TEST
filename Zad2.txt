@@ -1,0 +1,11 @@
+>> b=1;
+>> a=[1 1/6 -1/6];
+>> h1=impz(b,a);
+>> s=length(h1);
+>> n=0:s-1;
+>> h2=3/5*(-1/2).^n + 2/5*(1/3).^n;
+>> subplot(2,1,1), plot(n, h1);
+>> grid on; title('С помощью MATLAB');
+>> subplot(2,1,2), plot(n,h2);
+>> grid on; title('Вычесленное вручную');
+>> 

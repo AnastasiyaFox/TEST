@@ -8,4 +8,4 @@
 >> grid on; title('С помощью MATLAB');
 >> subplot(2,1,2), plot(n,h2);
 >> grid on; title('Вычесленное вручную');
->> 
+>> title = 0

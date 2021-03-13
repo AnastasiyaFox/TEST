@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Nastya
-=======
-Sergei 
->>>>>>> newbr
+Sergey
+
